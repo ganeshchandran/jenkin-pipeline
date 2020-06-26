@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Hello Node
 This is a very basic Hello World application written with Node.
 
@@ -8,3 +9,6 @@ https://getintodevops.com
 =======
 # devops-tutorial
 >>>>>>> ce3c95b92d0a737f7f47667c31aafe18343361c6
+=======
+# jenkin-pipeline
+>>>>>>> 9265dfe161076b31b1bcab3816b5e8a9565eb0fa
